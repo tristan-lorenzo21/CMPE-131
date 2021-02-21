@@ -86,8 +86,6 @@ a.button {
 }
   
 .dropdown {
-    /* position: relative; */
-    /* display: inline-block; */
     text-align: center;
 }
   
@@ -111,3 +109,13 @@ a.button {
 }
   
 .show {display: block;}
+
+.description {
+    margin: auto;
+    text-align: center;
+}
+
+.project-image {
+    margin: auto;
+    display: block;
+}
