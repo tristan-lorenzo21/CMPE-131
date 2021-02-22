@@ -1,4 +1,4 @@
-// Allows user to enter password and checks if it is correct or not
+// Password protection functionality
 var entry;
 var pass1 = "cmpe131";
 

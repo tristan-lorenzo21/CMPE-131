@@ -27,6 +27,13 @@ h1, h2, h3, h4, h5, h6 {
     margin: auto;
 }
 
+iframe {
+    padding-top: 40px;
+    display: block;
+    border-style: none;
+    margin: 0 auto;
+}
+
 .transcript {
     text-align: center;
     padding: 40px;
